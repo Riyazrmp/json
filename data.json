@@ -1,0 +1,41 @@
+[
+    {
+      "id":"p1",
+      "title": "Shirt",
+      "description": "cool Shirt",
+      "price": 180,
+  "imageUrl": "assets/shirt.png"  },
+  
+  {
+    "id":"p2",
+    "title": "pant",
+    "description": "cool Shirt",
+    "price": 180,
+"imageUrl": "assets/pant.png"  },
+   
+{
+    "id":"p3",
+    "title": "Shirt",
+    "description": "cool Shirt",
+    "price": 180,
+"imageUrl": "assets/top.png"  },
+{
+    "id":"p4",
+    "title": "Shirt",
+    "description": "cool Shirt",
+    "price": 180,
+"imageUrl": "assets/shirt.png"  },
+  
+{
+    "id":"p5",
+    "title": "pant",
+    "description": "cool Shirt",
+    "price": 180,
+"imageUrl": "assets/pant.png"  },
+{
+    "id":"p6",
+    "title": "Top",
+    "description": "cool Shirt",
+    "price": 180,
+"imageUrl": "assets/top.png"  }
+    ]
