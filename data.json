@@ -43,5 +43,11 @@
     "title": "Top",
     "description": "cool Shirt",
     "price": "180",
-"imageUrl": "assets/shirt.png"  }
+"imageUrl": "assets/shirt.png"  },
+    {
+    "id":"p8",
+    "title": "Top",
+    "description": "cool Shirt",
+    "price": "180",
+"imageUrl": "assets/pant.png"  }
     ]
