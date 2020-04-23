@@ -9,3 +9,4 @@ if($connect){
 	echo "Connection Failed";
 	exit();
 }
+?>
