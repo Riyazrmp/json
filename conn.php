@@ -1,6 +1,6 @@
 <?php
 
-$connect = mysqli_connect("127.0.0.2","bellbird_Medusa","rampur123","bellbird_Medusa");
+$connect = mysqli_connect("localhost","bellbird_Medusa","rampur123","bellbird_Medusa");
 
 if($connect){
 	 	echo "Connection Successfull";
@@ -9,4 +9,4 @@ if($connect){
 	echo "Connection Failed";
 	exit();
 }
-?>
+
