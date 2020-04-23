@@ -1,6 +1,6 @@
 <?php
 
-$connect = new mysqli("localhost","root","","my_store");
+$connect = new mysqli("localhost","bellbird_Medusa","rampur123","bellbird_Medusa");
 
 if($connect){
 	 
