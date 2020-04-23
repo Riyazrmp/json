@@ -1,7 +1,14 @@
 <?php
-require_once('db.php');
-$query = 'SELECT * FROM users';
-$stm = $db->prepare($query);
-$stm->execute();
-$row = $stm->fetch(PDO::FETCH_ASSOC);
-echo json_encode($row);
+include 'conn.php';
+
+$queryResult=$connect->query("SELECT * FROM tb_item");
+
+$result=array();
+
+while($fetchData=$queryResult->fetch_assoc()){
+	$result[]=$fetchData;
+}
+
+echo json_encode($result);
+
+?>
