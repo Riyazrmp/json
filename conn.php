@@ -1,6 +1,6 @@
 <?php
 
-$connect = new mysqli("127.0.0.2","bellbird_Medusa","rampur123","bellbird_Medusa");
+$connect = mysqli_connect("127.0.0.2","bellbird_Medusa","rampur123","bellbird_Medusa");
 
 if($connect){
 	 	echo "Connection Successfull";
