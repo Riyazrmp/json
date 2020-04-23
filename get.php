@@ -1,5 +1,5 @@
 <?php
-include 'conn2.php';
+include 'conn3.php';
 
 $queryResult=$connect->query("SELECT * FROM users");
 
