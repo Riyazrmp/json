@@ -1,5 +1,5 @@
 <?php
-$dns = ‘mysql:host=localhost;dbname=enter-database-name’;
+$dns = ‘mysql:host=localhost;dbname=bellbird_Medusa’;
 $user = ‘bellbird_Medusa’;
 $password = ‘rampur123’;
 try{
