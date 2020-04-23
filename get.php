@@ -1,7 +1,7 @@
 <?php
 include 'conn.php';
 
-$queryResult=$connect->query("SELECT * FROM tb_item");
+$queryResult=$connect->query("SELECT * FROM users");
 
 $result=array();
 
